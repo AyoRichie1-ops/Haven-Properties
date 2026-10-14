@@ -38,7 +38,8 @@ const featuredProperties = [
 export default function Home() {
 return ( 
     <main>
-         <section className="px-5 pt-6 sm:px-8 lg:px-10"> <div className="relative mx-auto min-h-600px max-w-7xl overflow-hidden rounded-[28px] bg-[#34392f] md:min-h-680px"> <img
+         <section className="px-5 pt-6 sm:px-8 lg:px-10">
+        <div className="relative mx-auto min-h-600px max-w-7xl overflow-hidden rounded-[28px] bg-[#34392f] md:min-h-680px"> <img
          src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=90"
          alt="Modern luxury home surrounded by greenery"
          className="absolute inset-0 h-full w-full object-cover"
