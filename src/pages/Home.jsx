@@ -85,7 +85,6 @@ return (
           Discover a better way home
         </div>
       </div>
-
       <div className="absolute bottom-0 right-0 hidden rounded-tl-2xl bg-[#f8f8f5] px-8 py-5 text-sm text-[#252820] md:block">
         Thoughtfully selected. Beautifully lived.
       </div>
