@@ -12,7 +12,7 @@ const contactDetails = [
   {
     icon: Phone,
     title: 'Call us',
-    detail: '+234 800 000 0000',
+    detail: '+234 803 123 4567',
   },
   {
     icon: Mail,
